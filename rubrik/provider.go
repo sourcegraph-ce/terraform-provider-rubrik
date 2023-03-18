@@ -1,7 +1,7 @@
 package rubrikcdm
 
 import (
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 
 	"github.com/hashicorp/terraform-plugin-sdk/helper/schema"
